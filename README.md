@@ -36,8 +36,6 @@
 8. **Principal Component Analysis (PCA):** Dimensionality reduction technique for simplifying complex datasets.
 9. **Association Rules:** Identifying relationships between variables using association rule learning (Apriori algorithm).
 10. **Recommendation Systems:** Building systems to recommend items to users based on their preferences.
-    ![image](https://github.com/user-attachments/assets/25560d30-ba48-4785-b4b7-687d99652b61)
-
 12. **Decision Trees & Random Forests:** Supervised learning techniques for classification and regression tasks.
 13. **XGBoost (XGBM) & LightGBM (LGBM):** Gradient boosting techniques for building high-performance models.
 14. **K-Nearest Neighbors (KNN):** Simple, instance-based learning algorithm for classification.
@@ -45,3 +43,6 @@
 16. **Neural Networks:** Introduction to deep learning and building neural networks for complex tasks.
 17. **Naive Bayes & Text Mining:** Probabilistic classifier and techniques for working with text data.
 18. **Time Series Analysis:** Forecasting and analyzing data points collected or sequenced over time.
+
+ ![image](https://github.com/user-attachments/assets/25560d30-ba48-4785-b4b7-687d99652b61)
+
